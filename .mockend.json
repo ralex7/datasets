@@ -1,1 +1,48 @@
 
+{
+  "dataset_id": "1",
+  "places":[
+      {
+            "place_name": "Elementary Schools",
+            "name": "123 YOU N ME PRESCHOOL",
+            "address": "809 W DETWEILLER DR STE A",
+            "city": "PEORIA",
+            "state": "IL",
+            "zip": "61615",
+            "geo_location": "40.78878653,-89.605669034",
+            "data": {}
+        },
+        {
+            "place_name": "Elementary Schools",
+            "name": "12TH STREET ELEMENTARY",
+            "address": "6501 SOUTH 12TH ST",
+            "city": "PORTAGE",
+            "state": "MI",
+            "zip": "49024",
+            "geo_location": "42.220381633,-85.646607261",
+            "data": {}
+        },
+        {
+            "place_name": "Elementary Schools",
+            "name": "18144 GLEN TERRACE ST.",
+            "address": "18144 GLEN TERRACE ST.",
+            "city": "LANSING",
+            "state": "IL",
+            "zip": "60438",
+            "geo_location": "41.565952019,-87.556316006",
+            "data": {}
+        },
+        {
+            "place_name": "Elementary Schools",
+            "name": "1R ELEMENTARY",
+            "address": "3301 W ONE-R ROAD",
+            "city": "GRAND ISLAND",
+            "state": "NE",
+            "zip": "68803",
+            "geo_location": "40.927320578,-98.50130136",
+            "data": {}
+        }
+    
+    
+    ]
+}
